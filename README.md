@@ -1,6 +1,6 @@
 ## Иммитация датчика ЛИР-ММ158А.
 Временные характеристики из datasheet
-![SSI](./SSI.png)
+![SSI](https://github.com/Xenon22pc/LIR_imitation/blob/master/SSI.PNG)
 
 Для выдачи результата данные необходимо занести в переменную data
 Пример:
