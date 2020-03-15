@@ -1,0 +1,15 @@
+LCD.c:35:6:lcd_write_byte	16	static
+LCD.c:52:6:lcd_write_word	16	static
+LCD.c:65:6:lcd_write_register	8	static
+LCD.c:74:6:lcd_set_cursor.part.0	16	static
+LCD.c:74:6:lcd_set_cursor	8	static
+LCD.c:88:6:lcd_clear_screen	16	static
+LCD.c:115:6:lcd_set_window	24	static
+LCD.c:129:6:lcd_draw_point	8	static
+LCD.c:141:6:lcd_display_char	48	static
+LCD.c:193:6:lcd_display_num	56	static
+LCD.c:222:6:lcd_display_string	48	static
+LCD.c:249:6:lcd_draw_line	48	static
+LCD.c:280:6:lcd_draw_circle	48	static
+LCD.c:306:6:lcd_fill_rect	8	static
+LCD.c:331:6:lcd_init	8	static

@@ -1,0 +1,16 @@
+lis331dlh.c:16:6:setRange	32	static
+lis331dlh.c:8:6:LIS331DLH_begin	32	static
+lis331dlh.c:42:6:sleep	32	static
+lis331dlh.c:52:9:readAxis	48	static
+lis331dlh.c:59:9:readX	8	static
+lis331dlh.c:63:9:readY	8	static
+lis331dlh.c:67:9:readZ	8	static
+lis331dlh.c:71:7:readGX	8	static
+lis331dlh.c:75:7:readGY	8	static
+lis331dlh.c:79:7:readGZ	8	static
+lis331dlh.c:83:7:readAX	8	static
+lis331dlh.c:87:7:readAY	8	static
+lis331dlh.c:91:7:readAZ	8	static
+lis331dlh.c:95:6:readXYZ	64	static
+lis331dlh.c:109:6:readGXYZ	32	static
+lis331dlh.c:117:6:readAXYZ	16	static

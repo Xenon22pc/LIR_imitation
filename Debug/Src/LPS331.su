@@ -1,0 +1,12 @@
+LPS331.c:5:6:LPS331_begin	48	static
+LPS331.c:45:9:readPressureRaw	48	static
+LPS331.c:20:7:readPressurePascals	8	static
+LPS331.c:26:7:readPressureMillibars	8	static
+LPS331.c:32:7:readPressureInchesHg	8	static
+LPS331.c:38:7:readPressureMillimetersHg	8	static
+LPS331.c:74:9:readTemperatureRaw	48	static
+LPS331.c:62:7:readTemperatureC	8	static
+LPS331.c:57:7:readTemperatureK	8	static
+LPS331.c:68:7:readTemperatureF	8	static
+LPS331.c:91:7:pressureToAltitudeMeters	8	static
+LPS331.c:97:7:pressureToAltitudeFeet	8	static
